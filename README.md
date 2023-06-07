@@ -14,3 +14,6 @@
 - [Basics](Pandas/1_intro/)
 - [Dataframe Basics](Pandas/2_dataframe_basics/)
 - [Read and Write Excel CSV](Pandas/3_excel_csv/)
+- [Handling Missing Values](Pandas/4_handling_missing_values/)
+- [Group by](Pandas/5_group_by/)
+- [Concat Dataframes](Pandas/6_concat_dataframes/)
